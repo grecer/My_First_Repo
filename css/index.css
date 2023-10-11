@@ -1,0 +1,57 @@
+.navbar {
+    background-color: gray;
+    color: white;
+    width: 125px;
+    height: auto;
+    text-align: center;
+    display: inline-block;
+    padding: 0;
+}
+
+.left {
+    background-color: blue;
+    width: 29%;
+    height: 1000px;
+    float: left;
+}
+
+.right {
+    background-color: lightcyan;
+    width: 70%;
+    height: 1000px;
+    float: left;
+}
+
+.nest1 {
+    height: 250px;
+    width: 100%;
+    background-color: aliceblue;
+    float: left;
+    text-align: center;
+    
+}
+
+.nest2 {
+    height: 750px;
+    width: 100%;
+    background-color: lightgray;
+    float: left;
+    padding: 5px;
+    text-align: left;
+}
+
+.photo {
+    float: left;
+    padding: 10px;
+}
+
+.article {
+    padding: 25px;
+    display: inline-block;
+}
+
+.cards {
+    background-color: aliceblue;
+    text-align: center;
+    display: inline;
+}
